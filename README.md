@@ -13,7 +13,6 @@ Com técnicas de ciência de dados, é possível compreender melhor quais caract
 1. **Clone o repositório utilizando Git**  
    ```bash
    git clone https://github.com/rodrigosena17/LH_CD_RodrigoSena
-   cd desafio-imdb
 
    **Crie um ambiente virtual**
    python -m venv venv
