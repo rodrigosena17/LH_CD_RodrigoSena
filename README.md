@@ -1,14 +1,14 @@
 # LH_CD_RodrigoSena
 Solução do desafio de ciência de dados do programa Lighthouse da Indicium (2025-11)
 
-# 🎬 Análise de Dados IMDb
+#  Análise de Dados IMDb
 
 Este projeto tem como objetivo explorar e analisar um conjunto de dados cinematográficos disponibilizado pela Indicium, no desafio [Lighthouse] de Ciência de Dados, identificando padrões e insights sobre os filmes listados no IMDb.  
 Com técnicas de ciência de dados, é possível compreender melhor quais características influenciam o desempenho de um filme e apoiar tomadas de decisão mais em relação aos mesmos.
 
 ---
 
-## 🚀 Como executar o projeto
+##  Como executar o projeto
 
 1. **Clone o repositório utilizando Git**  
    ```bash
@@ -28,7 +28,7 @@ Com técnicas de ciência de dados, é possível compreender melhor quais caract
 
 .
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 Python
 
